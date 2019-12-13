@@ -1,0 +1,3 @@
+What we found in assignment 3 is each of the different methods, while all providing an approximation of the price, had different standard errors. The Naive model had the largest standard error. This makes sense as there is no attempt to control for varience. 
+
+In the antithetic pricer, while the standard error was lowered using this method, it wasn't as effect as the stratfied sampler. 
